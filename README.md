@@ -1,6 +1,8 @@
 # (Application Name)
 SCISSOR
 
+## link: https://gilbert-scissor.netlify.app/#
+
 ## Description
 A frontend project for URL shortener
 
